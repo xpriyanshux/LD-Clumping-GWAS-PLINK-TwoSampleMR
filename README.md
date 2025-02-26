@@ -1,5 +1,5 @@
 
-# **Mendelian Randomization LD Clumping Using PLINK & TwoSampleMR**  
+# **Mendelian Randomization Local LD Clumping Using PLINK & TwoSampleMR**  
 
 ## **Overview**  
 This repository contains an **R script** that performs **LD clumping** on **GWAS summary statistics** for **Mendelian Randomization (MR)** studies. The script utilizes **PLINK** and the **TwoSampleMR package** to filter and clump **single nucleotide polymorphisms (SNPs)** across multiple populations (**EUR, AFR, AMR, EAS, SAS**).  
