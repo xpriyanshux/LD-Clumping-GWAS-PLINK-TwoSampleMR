@@ -15,7 +15,9 @@ z <- readLines("paths.txt")
 output_dir <- "specify/the/path/you/want/to/store/your/data/output/i.eclumped/files"
 plink_path <- "path/to/your/plink/exe/file  # Path to PLINK executable
 
-for(i in 1:seq_along(z)) #if the seq along gives error remove the line and directly give the number of fiel in the dir
+#if the seq along gives error remove the line and directly give the number of field in the dir
+
+for(i in 1:seq_along(z)) 
 {
   exp_raw <- fread(z[i])
   exp_raw <- as.data.frame(exp_raw)
