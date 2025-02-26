@@ -63,9 +63,6 @@ If you use this pipeline, please cite:
 - **PLINK:** Purcell et al. (2007) *PLINK: A Toolset for Whole-Genome Association and Population-Based Linkage Analyses*.  
 - **TwoSampleMR:** Hemani et al. (2018) *The MR-Base platform supports systematic causal inference across the human phenome.*  
 
-## **Keywords**  
-*Mendelian Randomization, LD Clumping, PLINK, GWAS, TwoSampleMR, SNP Clumping, Genetic Association Studies, Bioinformatics, Causal Inference, Multi-Omics, Genome-Wide Analysis, R Script for GWAS, MR-Base, 1000 Genomes Project* 
-
 
 ## **REFERENCES**
 
@@ -75,3 +72,7 @@ If you use this pipeline, please cite:
 4. https://www.internationalgenome.org/
 5. https://www.cog-genomics.org/plink/
 6. https://andrewslabucsf.github.io/MR-tutorial/scripts/mr.html
+
+## **Keywords**  
+*Mendelian Randomization, LD Clumping, PLINK, GWAS, TwoSampleMR, SNP Clumping, Genetic Association Studies, Bioinformatics, Causal Inference, Multi-Omics, Genome-Wide Analysis, R Script for GWAS, MR-Base, 1000 Genomes Project* 
+
