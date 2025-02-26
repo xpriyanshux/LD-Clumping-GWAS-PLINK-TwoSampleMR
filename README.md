@@ -1,0 +1,1 @@
+# LD-Clumping-GWAS-PLINK-TwoSampleMR
