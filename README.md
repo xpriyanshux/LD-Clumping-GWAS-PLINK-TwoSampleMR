@@ -1,6 +1,3 @@
-Here's an updated **README.md** file optimized with relevant **keywords** to improve searchability on GitHub.  
-
----
 
 # **Mendelian Randomization LD Clumping Using PLINK & TwoSampleMR**  
 
@@ -31,8 +28,7 @@ Download and install **PLINK 1.9** from [PLINK's official website](https://www.c
 
 ### **3. Set Up LD Reference Panel**  
 The script requires **LD reference panel files (.bed, .bim, .fam)** for different populations (e.g., EUR, AFR, AMR, EAS, SAS). You can download reference data from:  
-- [1000 Genomes Project](https://www.internationalgenome.org/)  
--  
+- [1000 Genomes Project](https://www.internationalgenome.org/) 
 
 ## **Usage**  
 
