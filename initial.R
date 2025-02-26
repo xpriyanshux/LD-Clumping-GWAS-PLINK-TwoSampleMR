@@ -13,7 +13,7 @@ file_paths <- list.files(exposure_dir_path, full.names = TRUE)
 write(file_paths, file = "paths.txt")
 z <- readLines("paths.txt")
 output_dir <- "specify/the/path/you/want/to/store/your/data/output/i.eclumped/files"
-plink_path <- "path/to/your/plink/exe/file  # Path to PLINK executable
+plink_path <- "path/to/your/plink/exe/file"  # Path to PLINK executable
 
 #if the seq along gives error remove the line and directly give the number of field in the dir
 
